@@ -139,7 +139,6 @@ Overall, this project demonstrates how Excel and Power BI can transform sales da
 
 ### 5. Business Recommendations
 ![Business Recommendations](Screenshots/05-Business-Recommendations.png)
-
 ## 10. Project Deliverables
 
 - Excel dataset preparation.
