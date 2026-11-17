@@ -123,6 +123,23 @@ The United States and Australia were the leading markets in both revenue and net
 
 Overall, this project demonstrates how Excel and Power BI can transform sales data into meaningful business insights, helping identify growth opportunities, evaluate profitability, and support data-driven decision-making.
 
+## 10. Dashboard Screenshots
+
+### 1. Revenue Performance
+![Revenue Performance](Screenshots/01-Revenue-Performance.png)
+
+### 2. Net Profit Performance
+![Net Profit Performance](Screenshots/02-Net-Profit-Performance.png)
+
+### 3. Net Profit and Revenue Overview
+![Net Profit and Revenue Overview](Screenshots/03-Net-Profit-Revenue-Overview.png)
+
+### 4. Financial Insights
+![Financial Insights](Screenshots/04-Financial-Insights.png)
+
+### 5. Business Recommendations
+![Business Recommendations](Screenshots/05-Business-Recommendations.png)
+
 ## 10. Project Deliverables
 
 - Excel dataset preparation.
