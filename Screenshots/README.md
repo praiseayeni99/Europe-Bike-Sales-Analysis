@@ -1,0 +1,1 @@
+This folder contains screenshots of the Bike Sales Analysis Power BI dashboard, showcasing revenue performance, net profit performance, financial trends, product insights, country performance, and business recommendations.
