@@ -1,0 +1,1 @@
+This folder contains the Power BI report (.pbix) developed for the Bike Sales Analysis project. The report includes interactive dashboards, financial performance analysis, product insights, country performance, and business recommendations.
