@@ -1,5 +1,4 @@
-# Bike Sales Analysis | Excel & Power BI
-
+# Europe Bike Sales Analysis | Excel & Power BI
 ## 1. Project Overview
 
 This project analyses bike sales data to evaluate financial performance, product performance, and geographical sales distribution.
