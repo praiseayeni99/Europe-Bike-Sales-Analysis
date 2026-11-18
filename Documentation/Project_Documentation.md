@@ -77,6 +77,25 @@ The analysis included:
 - Selected Reporting Period
 
 These measures supported the dashboard KPIs, financial performance comparisons, and business insights.
+### Time-Based Financial Performance Measures
+
+The following DAX measures were created in Power BI to evaluate financial performance over time:
+
+| Measure | Description |
+|---|---|
+| **Revenue YTD** | Calculates cumulative revenue from the beginning of the year up to the selected reporting period. |
+| **Net Profit YTD** | Calculates cumulative net profit from the beginning of the year up to the selected reporting period. |
+| **Revenue Growth MoM (%)** | Measures the percentage increase or decrease in revenue compared with the previous month. |
+| **Profit Growth MoM (%)** | Measures the percentage increase or decrease in net profit compared with the previous month. |
+
+### Additional Dashboard Measures
+
+| Measure | Description |
+|---|---|
+| **Net Profit MoM** | Calculates the month-over-month change in net profit. |
+| **Selected Reporting Period** | Dynamically displays the reporting period selected by the user. |
+
+These measures support monthly performance comparisons, year-to-date reporting, and dynamic financial analysis within the Power BI dashboard.
 
 ## Product Performance Analysis
 
