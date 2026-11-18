@@ -39,6 +39,15 @@ For a detailed explanation of the project, including data preparation, financial
 | Microsoft Power BI | Data analysis and visualization |
 | DAX | KPI calculations and time-based analysis |
 
+## Project Files
+
+| File | Description |
+|---|---|
+| [Excel Workbook](Excel/Bike_Sale_2.xlsx) | Cleaned dataset and Excel data preparation. |
+| [Power BI Dashboard](PowerBI/BIKE%20SALE%20ANALYSIS%20FINAL%20VISUALIZATION.pbix) | Interactive dashboard for revenue, net profit, product, and geographical analysis. |
+| [Dashboard Screenshots](Screenshots/) | Images of the completed Power BI dashboard. |
+| [Project Documentation](Documentation/Project_Documentation.md) | Detailed project process, analysis, findings, and recommendations.
+
 ##  Data Preparation
 
 Data preparation was performed using Microsoft Excel.
