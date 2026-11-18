@@ -47,16 +47,17 @@ For a detailed explanation of the project, including data preparation, financial
 | [Power BI Dashboard](PowerBI/BIKE%20SALE%20ANALYSIS%20FINAL%20VISUALIZATION.pbix) | Interactive dashboard for revenue, net profit, product, and geographical analysis. |
 | [Dashboard Screenshots](Screenshots/) | Images of the completed Power BI dashboard. |
 
-##  Data Preparation
+## Data Preparation
 
-Data preparation was performed using Microsoft Excel.
+Data preparation was performed using Microsoft Excel to organise the dataset and prepare it for analysis in Power BI.
 
 Activities included:
-- Reviewing the dataset for missing values.
-- Handling incomplete customer information.
-- Checking data consistency.
-- Rearranging columns for better organization.
-- Preparing the dataset for Power BI analysis.
+
+- Removing duplicate records from the dataset.
+- Creating an **Age Category** column using the Excel `IF` function.
+- Creating an **Age Bracket** column using the Excel `IF` function.
+- Rearranging columns for better organisation.
+- Preparing the cleaned dataset for Power BI analysis.
 
 ##  Key Performance Indicators
 
