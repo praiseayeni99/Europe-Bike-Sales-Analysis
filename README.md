@@ -1,5 +1,5 @@
 # Europe Bike Sales Analysis | Excel & Power BI
-## 1. Project Overview
+##  Project Overview
 
 This project analyses bike sales data to evaluate financial performance, product performance, and geographical sales distribution.
 
@@ -7,7 +7,7 @@ Microsoft Excel was used for data cleaning and preparation, while Power BI was u
 
 The objective was to transform raw sales data into meaningful information that supports business decision-making and identifies opportunities for improving revenue and profitability.
 
-## 2. Dataset Source
+##  Dataset Source
 
 The dataset used for this project was obtained from Kaggle.
 
@@ -18,7 +18,7 @@ The dataset used for this project was obtained from Kaggle.
 
 The dataset contains bike sales transaction records, including customer demographics, product details, order quantities, revenue, cost, and profit. It was used to analyse financial performance, product performance, customer trends, and geographical sales distribution.
 
-## 3. Project Objectives
+##  Project Objectives
 
 - Evaluate overall revenue and net profit performance.
 - Analyse monthly revenue and profit trends.
@@ -27,7 +27,11 @@ The dataset contains bike sales transaction records, including customer demograp
 - Monitor key financial performance indicators.
 - Develop actionable business recommendations.
 
-## 4. Tools and Technologies
+## Project Documentation
+
+For a detailed explanation of the project, including data preparation, financial analysis, product performance, geographical analysis, and business recommendations, see the [Project Documentation](Documentation/Project_Documentation.md).
+
+##  Tools and Technologies
 
 | Tool | Application |
 |---|---|
@@ -35,7 +39,7 @@ The dataset contains bike sales transaction records, including customer demograp
 | Microsoft Power BI | Data analysis and visualization |
 | DAX | KPI calculations and time-based analysis |
 
-## 5. Data Preparation
+##  Data Preparation
 
 Data preparation was performed using Microsoft Excel.
 
@@ -46,7 +50,7 @@ Activities included:
 - Rearranging columns for better organization.
 - Preparing the dataset for Power BI analysis.
 
-## 6. Key Performance Indicators
+##  Key Performance Indicators
 
 The dashboard presents the following overall performance metrics:
 
@@ -58,7 +62,7 @@ The dashboard presents the following overall performance metrics:
 | Profit Margin | 37.79% |
 | Average Selling Price | $63.38 |
 
-## 7. Dashboard Features
+##  Dashboard Features
 
 The Power BI report contains four pages:
 
@@ -94,7 +98,7 @@ The Power BI report contains four pages:
 - Overall business recommendations.
 - Project conclusion.
 
-## 8. Key Business Insights
+##  Key Business Insights
 
 ### Financial Performance
 The business generated $85.27 million in revenue and $32.22 million in net profit, achieving a profit margin of 37.79%.
@@ -114,7 +118,7 @@ The United States led country revenue with $28.0 million, followed by Australia 
 
 The United States also recorded the highest net profit at $11.1 million.
 
-## 9. Business Recommendations
+##  Business Recommendations
 
 - Monitor revenue, net profit, and profit margin together to evaluate financial performance.
 - Investigate December's strong performance and weaker monthly periods.
@@ -123,7 +127,7 @@ The United States also recorded the highest net profit at $11.1 million.
 - Analyse product-level profitability to guide pricing and inventory decisions.
 - Investigate opportunities to strengthen performance in leading markets, particularly the United States and Australia.
 
-## 10. Conclusion
+##  Conclusion
 
 The bike sales analysis revealed strong overall financial performance, generating $85.27 million in revenue and $32.22 million in net profit, with a profit margin of 37.79%.
 
@@ -133,7 +137,7 @@ The United States and Australia were the leading markets in both revenue and net
 
 Overall, this project demonstrates how Excel and Power BI can transform sales data into meaningful business insights, helping identify growth opportunities, evaluate profitability, and support data-driven decision-making.
 
-## 11. Dashboard Screenshots
+##  Dashboard Screenshots
 
 ### 1. Revenue Performance
 ![Revenue Performance](Screenshots/01-Revenue-Performance.png)
@@ -149,7 +153,8 @@ Overall, this project demonstrates how Excel and Power BI can transform sales da
 
 ### 5. Business Recommendations
 ![Business Recommendations](Screenshots/05-Business-Recommendations.png)
-## 12. Project Deliverables
+
+##  Project Deliverables
 
 - Excel dataset preparation.
 - Interactive Power BI dashboard.
