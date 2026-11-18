@@ -82,7 +82,6 @@ The Power BI report contains four pages:
 - Product category and subcategory analysis.
 - Country performance.
 - Product and age group filters.
-- An Age Group slicer was included to allow users to filter and explore revenue and net profit performance across different customer age groups.
 
 **Page 2: Revenue and Financial Performance**
 - Total Profit.
