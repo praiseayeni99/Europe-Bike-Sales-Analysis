@@ -56,8 +56,7 @@ The following data preparation steps were performed:
 - Used the Excel IF function to create two additional columns:
   - **Age Category:** Classified customers into different age categories.
   - **Age Bracket:** Grouped customers into defined age brackets.
-- This classification made it easier to analyse customer 
-  demographics and purchasing patterns.
+- This classification enabled the use of age groups as a slicer in Power BI, allowing users to filter financial performance results by customer age group.
 
 ###  Final Dataset
 After completing the data preparation steps, the cleaned dataset 
