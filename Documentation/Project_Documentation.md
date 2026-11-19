@@ -3,7 +3,7 @@
 
 ##  Project Overview
 
-This project involves analysing the Europe Bike Store Sales dataset to evaluate the company's financial performance, product sales, customer purchasing patterns, and geographical sales distribution.
+This project involves analysing the Europe Bike Store Sales dataset to evaluate the company's financial performance, product performance, and geographical sales distribution.
 
 Microsoft Excel was used for data cleaning and preparation, while Microsoft Power BI was used to develop an interactive dashboard, calculate key performance indicators (KPIs), and generate business insights.
 
@@ -28,9 +28,9 @@ The main objectives of this analysis were to:
 - Analyse monthly revenue and net profit trends.
 - Identify high-performing product categories and subcategories.
 - Compare sales and profitability across countries.
-- Examine customer purchasing patterns.
 - Develop an interactive Power BI dashboard.
 - Generate actionable business insights and recommendations.
+- This classification enabled the use of age groups as a slicer in Power BI, allowing users to filter the financial performance results by customer age group.
 
 ##  Tools and Technologies
 
@@ -72,8 +72,8 @@ The analysis included:
 - Total Revenue
 - Total Net Profit
 - Profit Margin (%)
-- Monthly Net Profit (MoM)
-- Net Profit Year-to-Date (YTD)
+- Net Profit MoM
+- Net Profit YTD
 - Selected Reporting Period
 
 These measures supported the dashboard KPIs, financial performance comparisons, and business insights.
