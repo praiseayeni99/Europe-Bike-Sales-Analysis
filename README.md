@@ -16,7 +16,7 @@ The dataset used for this project was obtained from Kaggle.
 - **Dataset Provider:** PrepInsta Prime
 - **Dataset Link:** [Europe Bike Store Sales – Kaggle](https://www.kaggle.com/datasets/prepinstaprime/europe-bike-store-sales)
 
-The dataset contains bike sales transaction records, including customer demographics, product details, order quantities, revenue, cost, and profit. It was used to analyse financial performance, product performance, customer trends, and geographical sales distribution.
+The dataset contains bike sales transaction records, including customer demographics, product details, order quantities, revenue, cost, and profit. It was used to analyse financial performance, product performance, and geographical sales distribution.
 
 ##  Project Objectives
 
