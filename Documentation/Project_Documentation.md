@@ -30,7 +30,7 @@ The main objectives of this analysis were to:
 - Compare sales and profitability across countries.
 - Develop an interactive Power BI dashboard.
 - Generate actionable business insights and recommendations.
-- This classification enabled the use of age groups as a slicer in Power BI, allowing users to filter the financial performance results by customer age group.
+
 
 ##  Tools and Technologies
 
