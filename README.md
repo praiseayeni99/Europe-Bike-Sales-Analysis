@@ -39,6 +39,15 @@ For a detailed explanation of the project, including data preparation, financial
 | Microsoft Power BI | Data analysis and visualization |
 | DAX | KPI calculations and time-based analysis |
 
+
+## Project Workflow
+
+The project followed three main stages:
+
+1. **Excel – Data Preparation:** Cleaned and prepared the bike sales dataset, removed duplicate records, and created Age Category and Age Bracket columns.
+2. **Power BI – Data Analysis:** Imported the cleaned dataset, created DAX measures, analysed revenue and net profit, and developed interactive dashboards.
+3. **Business Insights – Recommendations:** Identified key financial trends, evaluated product and country performance, and developed recommendations to support business decisions.
+
 ## Project Files
 
 | File | Description |
